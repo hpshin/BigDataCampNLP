@@ -1,2 +1,2 @@
-# BigDataCampNLP
-Natural Language Processing for Big Data Camp at Seoul National University 
+# udsNLP
+Natural Language Processing for Urban Data Science
